@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Doctor",
+    "\\Doctor\\Services",
+    "\\Lab",
+    "\\Lab\\Models",
+    "\\Lab\\Services",
+    "\\MTIT.Ocelote"
+  ],
+  "SelectedNode": "\\Doctor\\Services\\DoctorService.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,64 @@
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\appsettings.Development.json
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\appsettings.json
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.exe
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.deps.json
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.runtimeconfig.json
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.dll
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.pdb
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.csproj.AssemblyReference.cache
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.AssemblyInfoInputs.cache
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.AssemblyInfo.cs
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.csproj.CoreCompileInputs.cache
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.MvcApplicationPartsAssemblyInfo.cs
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.MvcApplicationPartsAssemblyInfo.cache
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.Lab.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab.props
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab.props
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab.props
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets.build.json
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets.development.json
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\scopedcss\bundle\Lab.styles.css
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.csproj.CopyComplete
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.dll
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\refint\Lab.dll
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.pdb
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.genruntimeconfig.cache
+D:\Lectures\Modern Topics In IT - IT4020\Practicals\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\ref\Lab.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\appsettings.Development.json
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\appsettings.json
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.exe
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.deps.json
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.runtimeconfig.json
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Lab.pdb
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.csproj.AssemblyReference.cache
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.AssemblyInfoInputs.cache
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.AssemblyInfo.cs
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.csproj.CoreCompileInputs.cache
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.MvcApplicationPartsAssemblyInfo.cs
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.MvcApplicationPartsAssemblyInfo.cache
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.Lab.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab.props
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab.props
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab.props
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets.build.json
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\staticwebassets.development.json
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\scopedcss\bundle\Lab.styles.css
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.csproj.CopyComplete
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\refint\Lab.dll
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.pdb
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\Lab.genruntimeconfig.cache
+D:\MTIT-20230405T063033Z-001\MTIT\Assignment 3\Assignment 3\MTIT-047.Assignment-03\Lab\obj\Debug\net6.0\ref\Lab.dll
